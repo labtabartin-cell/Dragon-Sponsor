@@ -1,7 +1,8 @@
 {
   "site": {
     "title": "Dragon Sponsor",
-    "subtitle": "پروژه‌هایی که با حمایت اسپانسرها ساخته، منتشر و نگه‌داری می‌شوند."
+    "subtitle": "پروژه‌هایی که با حمایت اسپانسرها ساخته، منتشر و نگه‌داری می‌شوند.",
+    "image": ""
   },
   "projects": [
     {
@@ -13,6 +14,16 @@
       "tags": [],
       "tier": "gold",
       "featured": false
+    },
+    {
+      "id": "p1792780845536",
+      "title": "مینی دراگون گرفت ",
+      "description": "یک بازی حدودا کامل اقتباس شده از ماینکرافت تحت وب برای تبلیغ و توسعه با تیم به اسپانسری نیازمندیم ",
+      "image": "https://drive.google.com/file/d/1-Iv51EQIq7PaPO8bx--EIt0ihwQxHPsP/view?usp=drivesdk",
+      "link": "",
+      "tags": [],
+      "tier": "none",
+      "featured": true
     }
   ]
 }
